@@ -1,0 +1,5 @@
+## Jupyter notebook
+.ipynb_checkpoints
+
+## Ignorando arquivos em excel
+*.xlsx
