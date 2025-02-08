@@ -3,7 +3,3 @@
 
 ## Ignorando arquivos em excel
 *.xlsx
-
-echo "models/modelo_rf.pkl" >> .gitignore
-models/modelo_rf.pkl
-models/modelo_rf.pkl
