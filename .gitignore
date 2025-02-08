@@ -3,3 +3,5 @@
 
 ## Ignorando arquivos em excel
 *.xlsx
+
+/home/hlnmrqs/LH_CD_Helen_Carneiro/udo apt install git-filter-repo
